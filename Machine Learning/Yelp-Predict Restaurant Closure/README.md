@@ -1,6 +1,7 @@
 ## Project Objectives
-Given Yelp dataset on business data which includes location data, attributes and categories, user reviews and user tips, to predict whether a given business will survive or end its operation.
-This prediction will be helpful in evaluating investment decisions on the said business and in assessing loan requests from the business.
+This project aims to predict whether a restaurant will close or remain in operation based on the business and review data from Yelp dataset. The scope of the project is only limited to restaurants in United States. 
+
+This prediction results will be helpful for evaluating investment decisions on the said restaurant and for bank assessing loan requests from the business.
 
 ## Source
 The source is from [Yelp open dataset (round 11)](https://www.yelp.com/dataset/download), which contains the below JSON files:
